@@ -1,4 +1,4 @@
-## Sup! This place is very outdated. Reason being I work at `SELECT workplace_name FROM get_workplace_name("linkedin.com/in/abd")`, and it's on Enterprise VCS.
+## This place is very outdated. Reason being I work at `SELECT workplace_name FROM get_workplace_name("linkedin.com/in/abd")`, and it's on Enterprise VCS.
 
 Ping me on LinkedIn or drop an e-mail if you want to ask something about existing projects, or me 👀
 
